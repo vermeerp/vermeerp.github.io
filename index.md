@@ -13,4 +13,10 @@ Download for your device today!
 * [ThingWorx View for Windows](https://www.microsoft.com/en-us/store/p/thingworx-view/9nblggh54wk8?activetab=pivot%3aoverviewtab)
 * [ThingWorx View for HoloLens](https://www.microsoft.com/en-us/store/p/thingworx-view-for-hololens/9nblggh555tt?activetab=pivot%3aoverviewtab)
 
+## iOS Graphing Calculator
+
+I wrote this app as "homework" while working through the Stanford University course [Developing iOS 10 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-10-apps-with-swift/id1198467120).
+
+![](images/iOS_Graphing_Calculator.png)
+*Graphing the sine wave*
 
