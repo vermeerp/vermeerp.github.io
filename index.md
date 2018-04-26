@@ -22,7 +22,7 @@ I wrote this app as "homework" while working through the Stanford University cou
 
 ## Diagnostic Pathfinder
 
-As part of the Biological Informatics Research Group and Iowa State University and Virginia Tech, I was the sole software engineer on a team creating the Diagnostic Pathfinder, a tool to help students learn clinical pathology.  I was architect, database administrator, developer, tester, and tech support all in one!  This tool was a gated, case-based study tool.  Students were required to complete each phase before they could move on to the next step. The class had 93 case studies that the students worked through.
+As part of the four person Biological Informatics Research Group at Iowa State University and Virginia Tech, I was the sole software engineer on a team creating the Diagnostic Pathfinder, a tool to help students learn clinical pathology.  I was architect, database administrator, full-stack developer, tester, and tech support all in one!  This tool was a gated, case-based study tool, written in Java using the Swing GUI toolkit.  Students were required to complete each phase before they could move on to the next step. The class had 93 case studies that the students worked through.
 
 ![](images/Patient_History.png)
 *Students select relevant information from the case history*
