@@ -2,9 +2,10 @@
 
 This app enables users to see augmented reality Experiences that are developed with the ThingWorx Studio authoring tool.  Experiences are able to display rich 3D content, as well as connect to live IoT data.  It is available for iOS, Android, Windows Surface, and HoloLens.  I have been involved in this project since its inception in January, 2016.
 
-![Spatial tracking Experience using ARKit in ThingWorx View for iOS](images/iOS_View.png)
+![](images/iOS_View.png)
+*Spatial tracking Experience using ARKit in ThingWorx View for iOS*
 
-[ThingWorx Studio from PTC](https://www.ptc.com/en/products/augmented-reality/thingworx-studio)
+Learn more about [ThingWorx Studio from PTC](https://www.ptc.com/en/products/augmented-reality/thingworx-studio)
 
 Download for your device today!
 * [ThingWorx View for iOS](https://itunes.apple.com/us/app/thingworx-view/id1076700285?mt=8)
